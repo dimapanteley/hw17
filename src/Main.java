@@ -2,7 +2,7 @@ import qwe.WrongLogin;
 import qwe.WrongPassword;
 public class Main {
     public static void main(String[] args) {
-        String login = "Saint_pant";
+        String login = "Saint_pant7";
         String password = "OrNIXCIo238";
         String confirmPassword = "S100292";
 
